@@ -14,5 +14,8 @@ Credits:
 
 https://github.com/hakanesari/fixer-io/
 
-The API runs on Digital Ocean
+The API runs on Digital Ocean 
+
+python2.7
+
 
